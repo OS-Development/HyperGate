@@ -3,9 +3,12 @@ HyperGate Client Scripts
 
 Client scripts for HyperGates on the HyperGate Network from http://TheHyperGates.com
 
+See the wiki for some documentation and features: https://github.com/rdc/HyperGate/wiki
 
 
-August 24th, 2013
+
+
+June 24th, 2013
 
 For the past four years, these scripts have performed flawlessly on literally thousands of OpenSim simulators connected to the HyperGrid. Literally hundreds of thousands of HyperGrid links have been provided to HyperGrid travelling avatars over that time.
 
